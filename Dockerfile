@@ -1,5 +1,5 @@
 # DESCRIPTION: Basic extensible Jupyter Notebook/Lab Container
-# BUILD: docker build --rm -t docker-jupyter-extensible .
+# BUILD: docker build --rm -t docker-jupyter .
 # Inspired by https://github.com/augusto-herrmann/docker-jupyter-extensible
 
 FROM jupyter/scipy-notebook

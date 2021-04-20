@@ -8,13 +8,13 @@ This repository contains a Jupyter notebook with a cryptocurrency portfolio inve
 ![Optimised portfolio](screenshot.png)
 
 ## Jupyter setup
-I'm not really well up-to-date with the whole Python tooling, and thus prefer to run everything inside Docker containers.    
+I'm not really into Python, and not up-to-date with Python tooling and the best way to install everything and use it, and thus prefer to just simply run everything inside Docker containers.    
 [Jupyter Docker Stacks](https://github.com/jupyter/docker-stacks) are a bunch of ready-to-run Docker images that contain a ready-made environment to run Jupyter applications.
 
 ### Build Jupyter container
 
 ```
-docker build --rm -t docker-jupyter-extensible .
+docker build --rm -t docker-jupyter .
 ```
 
 ### Run Jupyter container
