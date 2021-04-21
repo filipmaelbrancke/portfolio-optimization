@@ -1,7 +1,7 @@
 # portfolio-optimization
 Cryptocurrency portfolio optimization
 
-This repository contains a Jupyter notebook with a cryptocurrency portfolio investment strategy. Inspired by [Benjamin Cowen](https://intothecryptoverse.com/)'s videos related to maximizing your risk-adjusted returns by solving for the maximum Sharpe Ratio which exists on the Efficient Frontier. Crunching some historic returns and volatility data to find the portfolio which gives the best expected return for each unit of risk.
+This repository contains a Jupyter notebook with a cryptocurrency portfolio optimization strategy. Inspired by [Benjamin Cowen](https://intothecryptoverse.com/)'s videos related to maximizing your risk-adjusted returns by solving for the maximum [Sharpe](https://www.investopedia.com/terms/s/sharperatio.asp) [Ratio](https://www.investopedia.com/articles/07/sharpe_ratio.asp). Crunching some historic returns and volatility data to find the portfolio which gives the best expected return for each unit of risk.
 
 ---
 
